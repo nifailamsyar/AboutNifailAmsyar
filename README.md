@@ -1,5 +1,5 @@
  <h1 align="center">Hi there 👋, I'm Nifail Amsyar</h1>
-##I am a second-year student in **Bachelor of Computer Science (Software Engineering)** from Faculty of Computer Science and Information Technology Universiti Malaya
+<h3>I am a second-year student in <b>Bachelor of Computer Science (Software Engineering)</b> from Faculty of Computer Science and Information Technology Universiti Malaya</h3>
 
 - 🔭 I’m currently looking for internship placement!
 - 📫 How to reach me: nifailamsyar02@gmail.com 
